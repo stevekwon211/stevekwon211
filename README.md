@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to __`technologies`__, __`attitude`__ to be improved, life in __`Sydney`__  
   
 
-- ⚡ Fun fact: I am a big fan of __Arsenal__  
+- ⚡ Fun fact: I am a big fan of __`Arsenal`__  
   
 
 <br/>  
