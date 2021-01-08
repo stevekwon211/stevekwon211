@@ -94,7 +94,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [2021-1-7 TIL](https://stevekwon211.blogspot.com/2021/01/2021-1-7-til.html)
 - [2021-1-6 TIL](https://stevekwon211.blogspot.com/2021/01/2021-1-6-til.html)
