@@ -82,7 +82,10 @@
 </a>
 <a href="https://www.facebook.com/khi0211" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://open.kakao.com/o/gAWQjFKc" target"_blank">
+<img src=https://img.shields.io/badge/-Kakao-%23FFCD00?&style=for-the-badge&logo=kakao&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
