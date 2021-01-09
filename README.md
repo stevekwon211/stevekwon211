@@ -24,8 +24,6 @@
 ## My Skill Set  
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevekwon211&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <table><tr><td valign="top" width="33%">
 
 
@@ -65,6 +63,8 @@
 </div>
 
 </td></tr></table>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevekwon211&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
