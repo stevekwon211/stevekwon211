@@ -100,11 +100,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [2021-1-10 TIL](https://stevekwon211.blogspot.com/2021/01/2021-1-10-til.html)
+- [Algorithm Basic](https://stevekwon211.blogspot.com/2021/01/algorithm-basic.html)
 - [2021-1-9 TIL](https://stevekwon211.blogspot.com/2021/01/2021-1-9-til_9.html)
 - [2021-1-8 TIL](https://stevekwon211.blogspot.com/2021/01/2021-1-8-til.html)
 - [2021-1-7 TIL](https://stevekwon211.blogspot.com/2021/01/2021-1-7-til.html)
-- [2021-1-6 TIL](https://stevekwon211.blogspot.com/2021/01/2021-1-6-til.html)
-- [2021-1-5 TIL](https://stevekwon211.blogspot.com/2021/01/2021-1-5-til.html)
 <!-- BLOG-POST-LIST:END -->  
   
 
