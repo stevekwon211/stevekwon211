@@ -103,11 +103,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [📖 비전공자를 위한 이해할 수 있는 IT지식 [책을 읽고 난 후]](https://velog.io/@kwonhl0211/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9D%B4%ED%95%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-IT%EC%A7%80%EC%8B%9D-%EC%B1%85%EC%9D%84-%EC%9D%BD%EA%B3%A0-%EB%82%9C-%ED%9B%84)
 - [[TIL] 2021-01-11](https://velog.io/@kwonhl0211/TIL-2021-01-11)
 - [자기계발을 위한 나만의 방법 & 팁 & 정보 모음집](https://velog.io/@kwonhl0211/%EC%9E%90%EA%B8%B0%EA%B3%84%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B0%A9%EB%B2%95-%ED%8C%81-%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C%EC%A7%91)
 - [Hello Kaggle! 캐글이 처음인 분들을 위한 캐글 가이드](https://velog.io/@kwonhl0211/Hello-Kaggle-%EC%BA%90%EA%B8%80%EC%9D%B4-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BA%90%EA%B8%80-%EA%B0%80%EC%9D%B4%EB%93%9C)
 - [2020년을 뒤돌아 보면서](https://velog.io/@kwonhl0211/2020%EB%85%84%EC%9D%84-%EB%92%A4%EB%8F%8C%EC%95%84-%EB%B3%B4%EB%A9%B4%EC%84%9C)
-- [2020년에 읽은 책들에 대한 짧은 서평](https://velog.io/@kwonhl0211/2020%EB%85%84%EC%97%90-%EC%9D%BD%EC%9D%80-%EC%B1%85%EB%93%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%A7%EC%9D%80-%EC%84%9C%ED%8F%89)
 <!-- BLOG-POST-LIST:END -->  
   
 
