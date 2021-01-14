@@ -103,11 +103,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] 2021-01-14](https://velog.io/@kwonhl0211/TIL-2021-01-14)
 - [[TIL] 2021-01-13](https://velog.io/@kwonhl0211/TIL-2021-01-13)
 - [[TIL] 2021-01-12](https://velog.io/@kwonhl0211/TIL-2021-01-12)
 - [머신러닝? 선형 회귀는 뭐고 비용함수는 무엇인가요?](https://velog.io/@kwonhl0211/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EB%8A%94-%EB%AD%90%EA%B3%A0-%EB%B9%84%EC%9A%A9%ED%95%A8%EC%88%98%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
 - [📖 비전공자를 위한 이해할 수 있는 IT지식 후기](https://velog.io/@kwonhl0211/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9D%B4%ED%95%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-IT%EC%A7%80%EC%8B%9D-%EC%B1%85%EC%9D%84-%EC%9D%BD%EA%B3%A0-%EB%82%9C-%ED%9B%84)
-- [[TIL] 2021-01-11](https://velog.io/@kwonhl0211/TIL-2021-01-11)
 <!-- BLOG-POST-LIST:END -->  
   
 
