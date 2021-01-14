@@ -113,7 +113,8 @@
 
 <br/>  
 
-  
+## Resume
+[Steve Kwon | Data Scientist](https://www.notion.so/Steve-Kwon-Data-Scientist-36bce9fe1dd3464fba279395bc80f365)
 
 <br/>  
 
