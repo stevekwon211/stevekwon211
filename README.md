@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] 2021-01-17](https://velog.io/@kwonhl0211/TIL-2021-01-17)
 - [[TIL] 2021-01-16](https://velog.io/@kwonhl0211/TIL-2021-01-16)
 - [경사하강법과 선형 회귀](https://velog.io/@kwonhl0211/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EA%B3%BC-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80)
 - [[TIL] 2021-01-15](https://velog.io/@kwonhl0211/TIL-2021-01-15)
 - [[TIL] 2021-01-14](https://velog.io/@kwonhl0211/TIL-2021-01-14)
-- [[TIL] 2021-01-13](https://velog.io/@kwonhl0211/TIL-2021-01-13)
 <!-- BLOG-POST-LIST:END -->  
   
 
