@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] 2021-01-21](https://velog.io/@kwonhl0211/TIL-2021-01-21)
 - [[TIL] 2021-01-20](https://velog.io/@kwonhl0211/TIL-2021-01-20)
 - [[TIL] 2021-01-19](https://velog.io/@kwonhl0211/TIL-2021-01-19)
 - [[TIL] 2021-01-18](https://velog.io/@kwonhl0211/TIL-2021-01-18)
 - [[TIL] 2021-01-17](https://velog.io/@kwonhl0211/TIL-2021-01-17)
-- [[TIL] 2021-01-16](https://velog.io/@kwonhl0211/TIL-2021-01-16)
 <!-- BLOG-POST-LIST:END -->  
   
 
