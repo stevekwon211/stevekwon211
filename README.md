@@ -107,11 +107,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [로지스틱 회귀의 비용함수와 경사하강법](https://velog.io/@kwonhl0211/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80%EC%9D%98-%EB%B9%84%EC%9A%A9%ED%95%A8%EC%88%98%EC%99%80-%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95)
 - [분류 문제와 결정 경계](https://velog.io/@kwonhl0211/%EB%B6%84%EB%A5%98-%EB%AC%B8%EC%A0%9C%EC%99%80-%EA%B2%B0%EC%A0%95-%EA%B2%BD%EA%B3%84)
 - [[TIL] 2021-01-26](https://velog.io/@kwonhl0211/TIL-2021-01-26)
 - [[TIL] 2021-01-25](https://velog.io/@kwonhl0211/TIL-2021-01-25)
 - [[TIL] 2021-01-24](https://velog.io/@kwonhl0211/TIL-2021-01-24)
-- [[TIL] 2021-01-23](https://velog.io/@kwonhl0211/TIL-2021-01-23)
 <!-- BLOG-POST-LIST:END -->  
   
 
