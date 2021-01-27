@@ -107,11 +107,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [분류 문제와 결정 경계](https://velog.io/@kwonhl0211/%EB%B6%84%EB%A5%98-%EB%AC%B8%EC%A0%9C%EC%99%80-%EA%B2%B0%EC%A0%95-%EA%B2%BD%EA%B3%84)
 - [[TIL] 2021-01-26](https://velog.io/@kwonhl0211/TIL-2021-01-26)
 - [[TIL] 2021-01-25](https://velog.io/@kwonhl0211/TIL-2021-01-25)
 - [[TIL] 2021-01-24](https://velog.io/@kwonhl0211/TIL-2021-01-24)
 - [[TIL] 2021-01-23](https://velog.io/@kwonhl0211/TIL-2021-01-23)
-- [다변량 선형회귀와 효과적인 경사하강법을 위한 방법들](https://velog.io/@kwonhl0211/%EB%8B%A4%EB%B3%80%EB%9F%89-%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80%EC%99%80-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%93%A4)
 <!-- BLOG-POST-LIST:END -->  
   
 
