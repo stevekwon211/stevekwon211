@@ -110,7 +110,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [[TIL] 2021-01-28](https://velog.io/@kwonhl0211/TIL-2021-01-28)
 - [[TIL] 2021-01-27](https://velog.io/@kwonhl0211/TIL-2021-01-27)
-- [[Week 3][작성중] 로지스틱 회귀와 결정 경계, 그리고 오버피팅을 막기 위한 정칙화](https://velog.io/@kwonhl0211/%EB%B6%84%EB%A5%98-%EB%AC%B8%EC%A0%9C%EC%99%80-%EA%B2%B0%EC%A0%95-%EA%B2%BD%EA%B3%84)
+- [[Week 3] 로지스틱 회귀와 결정 경계, 그리고 오버피팅을 막기 위한 정칙화](https://velog.io/@kwonhl0211/%EB%B6%84%EB%A5%98-%EB%AC%B8%EC%A0%9C%EC%99%80-%EA%B2%B0%EC%A0%95-%EA%B2%BD%EA%B3%84)
 - [[TIL] 2021-01-26](https://velog.io/@kwonhl0211/TIL-2021-01-26)
 - [[TIL] 2021-01-25](https://velog.io/@kwonhl0211/TIL-2021-01-25)
 <!-- BLOG-POST-LIST:END -->  
