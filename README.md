@@ -108,11 +108,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] 2021-01-31 Finish!](https://velog.io/@kwonhl0211/TIL-2021-01-31-Finish)
 - [BLACKPINK IN YOUR AREA!!](https://velog.io/@kwonhl0211/BLACKPINK-IN-YOUR-AREA)
 - [[TIL] 2021-01-30](https://velog.io/@kwonhl0211/TIL-2021-01-30)
 - [[TIL] 2021-01-29](https://velog.io/@kwonhl0211/TIL-2021-01-29)
 - [[TIL] 2021-01-28](https://velog.io/@kwonhl0211/TIL-2021-01-28)
-- [[TIL] 2021-01-27](https://velog.io/@kwonhl0211/TIL-2021-01-27)
 <!-- BLOG-POST-LIST:END -->  
   
 
