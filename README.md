@@ -108,11 +108,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [72일간 진행한 TIL 후기](https://velog.io/@kwonhl0211/70%EC%9D%BC%EA%B0%84-%EC%A7%84%ED%96%89%ED%95%9C-TIL-%ED%9B%84%EA%B8%B0)
 - [[TIL] 2021-01-31 Finish!](https://velog.io/@kwonhl0211/TIL-2021-01-31-Finish)
 - [BLACKPINK IN YOUR AREA!!](https://velog.io/@kwonhl0211/BLACKPINK-IN-YOUR-AREA)
 - [[TIL] 2021-01-30](https://velog.io/@kwonhl0211/TIL-2021-01-30)
 - [[TIL] 2021-01-29](https://velog.io/@kwonhl0211/TIL-2021-01-29)
-- [[TIL] 2021-01-28](https://velog.io/@kwonhl0211/TIL-2021-01-28)
 <!-- BLOG-POST-LIST:END -->  
   
 
