@@ -108,11 +108,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[Week 4] 신경망이란?](https://velog.io/@kwonhl0211/Week-4-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%B4%EB%9E%80)
 - [72일간 진행한 TIL 후기](https://velog.io/@kwonhl0211/70%EC%9D%BC%EA%B0%84-%EC%A7%84%ED%96%89%ED%95%9C-TIL-%ED%9B%84%EA%B8%B0)
 - [[TIL] 2021-01-31 Finish!](https://velog.io/@kwonhl0211/TIL-2021-01-31-Finish)
 - [BLACKPINK IN YOUR AREA!!](https://velog.io/@kwonhl0211/BLACKPINK-IN-YOUR-AREA)
 - [[TIL] 2021-01-30](https://velog.io/@kwonhl0211/TIL-2021-01-30)
-- [[TIL] 2021-01-29](https://velog.io/@kwonhl0211/TIL-2021-01-29)
 <!-- BLOG-POST-LIST:END -->  
   
 
