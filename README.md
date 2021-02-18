@@ -108,11 +108,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[Week 5] 순전파와 역전파, 그리고 신경망 학습 프로세스](https://velog.io/@kwonhl0211/Week-5-%EC%88%9C%EC%A0%84%ED%8C%8C%EC%99%80-%EC%97%AD%EC%A0%84%ED%8C%8C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
 - [[Week 4] 신경망이란?](https://velog.io/@kwonhl0211/Week-4-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%B4%EB%9E%80)
 - [72일간 진행한 TIL 후기](https://velog.io/@kwonhl0211/70%EC%9D%BC%EA%B0%84-%EC%A7%84%ED%96%89%ED%95%9C-TIL-%ED%9B%84%EA%B8%B0)
 - [[TIL] 2021-01-31 Finish!](https://velog.io/@kwonhl0211/TIL-2021-01-31-Finish)
 - [BLACKPINK IN YOUR AREA!!](https://velog.io/@kwonhl0211/BLACKPINK-IN-YOUR-AREA)
-- [[TIL] 2021-01-30](https://velog.io/@kwonhl0211/TIL-2021-01-30)
 <!-- BLOG-POST-LIST:END -->  
   
 
