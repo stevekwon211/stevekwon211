@@ -9,9 +9,6 @@
 - 💻 I’m currently working on __`Kaggle`__ and __`J2KB Team Project`__  
   
 
-- 📚 I’m currently learning __`Math`__ and __`Machine Learning`__  
-  
-
 - ❓ Ask me about anything related to __`technologies`__, __`attitude`__ to be improved, life in __`Sydney`__  
   
 
@@ -119,7 +116,7 @@
 <br/>  
 
 ## Resume
-[Steve Kwon | Data Scientist](https://www.notion.so/Steve-Kwon-Data-Scientist-36bce9fe1dd3464fba279395bc80f365)
+[Steve Kwon](https://www.notion.so/Steve-Kwon-Data-Scientist-36bce9fe1dd3464fba279395bc80f365)
 
 <br/>  
 
