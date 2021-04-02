@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm __Steve Kwon__, a noob data scientist 👨‍💻</div>  
+### <div align="center">I'm __Steve Kwon__, a noob entrepreneur 👨‍💻</div>  
   
 
 - 💻 I’m currently working on __`Kaggle`__ and __`J2KB Team Project`__  
