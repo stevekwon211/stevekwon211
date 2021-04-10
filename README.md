@@ -105,11 +105,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Memo #5](https://velog.io/@kwonhl0211/Memo-5)
+- [UX/UI의 정의와 다양한 법칙 정리❗](https://velog.io/@kwonhl0211/UXUI%EC%9D%98-%EC%A0%95%EC%9D%98%EC%99%80-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B2%95%EC%B9%99-%EC%A0%95%EB%A6%AC)
 - [Memo #4](https://velog.io/@kwonhl0211/Memo-4)
 - [Memo #3](https://velog.io/@kwonhl0211/Memo-3)
 - [패스트벤처스 Textbook 2021 Spring Batch 선정!! + 첫 번째 강의 끄적끄적](https://velog.io/@kwonhl0211/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EB%B2%A4%EC%B2%98%EC%8A%A4-Textbook-2021-Spring-Batch-%EC%84%A0%EC%A0%95-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B0%95%EC%9D%98-%EB%81%84%EC%A0%81%EB%81%84%EC%A0%81)
-- [Memo #2](https://velog.io/@kwonhl0211/Memo-2)
-- [Memo #1](https://velog.io/@kwonhl0211/Steves-Memo-1)
 <!-- BLOG-POST-LIST:END -->  
   
 
