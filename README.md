@@ -101,7 +101,7 @@
 - [UX 디자인 프로세스 정리❗](https://velog.io/@kwonhl0211/UX-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
 - [3의 법칙으로 목표를 정하고 트래킹하는 법 (feat. 재량적 학습모델, AUD, 블록형 스케쥴)](https://velog.io/@kwonhl0211/3%EC%9D%98-%EB%B2%95%EC%B9%99%EC%9C%BC%EB%A1%9C-%EB%AA%A9%ED%91%9C%EB%A5%BC-%EC%A0%95%ED%95%98%EA%B3%A0-%ED%8A%B8%EB%9E%98%ED%82%B9%ED%95%98%EB%8A%94-%EB%B2%95-feat.-%EC%9E%AC%EB%9F%89%EC%A0%81-%ED%95%99%EC%8A%B5%EB%AA%A8%EB%8D%B8-AUD-%EB%B8%94%EB%A1%9D%ED%98%95-%EC%8A%A4%EC%BC%80%EC%A5%B4)
 - [Memo #9](https://velog.io/@kwonhl0211/Memo-9)
-- [[패스트벤처스 Textbook 3번째 강의] - 👤유닛 이코노믹스 (Unit Economics)](https://velog.io/@kwonhl0211/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EB%B2%A4%EC%B2%98%EC%8A%A4-Textbook-3%EB%B2%88%EC%A7%B8-%EA%B0%95%EC%9D%98-%EC%9C%A0%EB%8B%9B-%EC%9D%B4%EC%BD%94%EB%85%B8%EB%AF%B9%EC%8A%A4-Unit-Economics)
+- [Memo #8](https://velog.io/@kwonhl0211/Memo-8)
 <!-- BLOG-POST-LIST:END -->  
   
 
