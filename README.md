@@ -99,9 +99,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [J2KB 코딩 스터디 4기 멤버 모집!](https://velog.io/@kwonhl0211/J2KB-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%84%B0%EB%94%94-4%EA%B8%B0-%EB%A9%A4%EB%B2%84-%EB%AA%A8%EC%A7%91)
 - [J2KB 크루 모집 Start!🔥](https://velog.io/@kwonhl0211/J2KB-%ED%81%AC%EB%A3%A8-%EB%AA%A8%EC%A7%91-Start)
-- [UX 디자인 프로세스 정리❗](https://velog.io/@kwonhl0211/UX-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
-- [3의 법칙으로 목표를 정하고 트래킹하는 법 (feat. 재량적 학습모델, AUD, 블록형 스케쥴)](https://velog.io/@kwonhl0211/3%EC%9D%98-%EB%B2%95%EC%B9%99%EC%9C%BC%EB%A1%9C-%EB%AA%A9%ED%91%9C%EB%A5%BC-%EC%A0%95%ED%95%98%EA%B3%A0-%ED%8A%B8%EB%9E%98%ED%82%B9%ED%95%98%EB%8A%94-%EB%B2%95-feat.-%EC%9E%AC%EB%9F%89%EC%A0%81-%ED%95%99%EC%8A%B5%EB%AA%A8%EB%8D%B8-AUD-%EB%B8%94%EB%A1%9D%ED%98%95-%EC%8A%A4%EC%BC%80%EC%A5%B4)
-- [Memo #9](https://velog.io/@kwonhl0211/Memo-9)
+- [Hello Kaggle! 캐글이 처음인 분들을 위한 캐글 가이드](https://velog.io/@kwonhl0211/Hello-Kaggle-%EC%BA%90%EA%B8%80%EC%9D%B4-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BA%90%EA%B8%80-%EA%B0%80%EC%9D%B4%EB%93%9C)
+- [Accessing Databases Using Python](https://velog.io/@kwonhl0211/Accessing-Databases-Using-Python)
+- [Advanced SQL 2](https://velog.io/@kwonhl0211/Advanced-SQL-2)
 <!-- BLOG-POST-LIST:END -->  
   
 
