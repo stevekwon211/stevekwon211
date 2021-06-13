@@ -97,11 +97,11 @@
 
 ## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [권도언 인생 계획 2.0](https://velog.io/@kwonhl0211/%EA%B6%8C%EB%8F%84%EC%96%B8-%EC%9D%B8%EC%83%9D-%EA%B3%84%ED%9A%8D-2.0)
 - [J2KB 코딩 스터디 4기 멤버 모집 마감까지 10일 남았습니다!](https://velog.io/@kwonhl0211/J2KB-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%84%B0%EB%94%94-4%EA%B8%B0-%EB%A9%A4%EB%B2%84-%EB%AA%A8%EC%A7%91-%EB%A7%88%EA%B0%90%EA%B9%8C%EC%A7%80-10%EC%9D%BC-%EB%82%A8%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4)
 - [J2KB 코딩 스터디 4기 멤버 모집!](https://velog.io/@kwonhl0211/J2KB-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%84%B0%EB%94%94-4%EA%B8%B0-%EB%A9%A4%EB%B2%84-%EB%AA%A8%EC%A7%91)
 - [J2KB 크루 모집 Start!🔥](https://velog.io/@kwonhl0211/J2KB-%ED%81%AC%EB%A3%A8-%EB%AA%A8%EC%A7%91-Start)
 - [Hello Kaggle! 캐글이 처음인 분들을 위한 캐글 가이드](https://velog.io/@kwonhl0211/Hello-Kaggle-%EC%BA%90%EA%B8%80%EC%9D%B4-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BA%90%EA%B8%80-%EA%B0%80%EC%9D%B4%EB%93%9C)
-- [Accessing Databases Using Python](https://velog.io/@kwonhl0211/Accessing-Databases-Using-Python)
 <!-- BLOG-POST-LIST:END -->  
   
 
