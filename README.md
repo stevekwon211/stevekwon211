@@ -65,23 +65,20 @@
 
 ## Connect with me
 <div align="center">
-<a href="https://velog.io/@kwonhl0211" target="_blank">
-<img src=https://img.shields.io/badge/-Velog-%2300C58E?&style=for-the-badge& alt=github style="margin-bottom: 5px;" />
+<a href="https://stevekwon.oopy.io/memopad" target="_blank">
+<img src=https://img.shields.io/badge/Notion-%2324292e.svg?&style=for-the-badge&logo=notion&logoColor=white alt=notion style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/stevekwon211" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/steve-kwon-8606ba1b8" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/khi0211" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/sydev_sk/" target"_blank">
+<a href="https://www.instagram.com/kwondoeon/" target"_blank">
 <img src=https://img.shields.io/badge/-Instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://open.kakao.com/o/gAWQjFKc" target"_blank">
-<img src=https://img.shields.io/badge/-Kakao-%23FFCD00?&style=for-the-badge&logo=kakao&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>  
   
@@ -92,23 +89,12 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stevekwon211&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts 
-<!-- BLOG-POST-LIST:START -->
-- [Hello Kaggle! 캐글이 처음인 분들을 위한 캐글 가이드](https://velog.io/@kwonhl0211/Hello-Kaggle-%EC%BA%90%EA%B8%80%EC%9D%B4-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BA%90%EA%B8%80-%EA%B0%80%EC%9D%B4%EB%93%9C)
-- [Accessing Databases Using Python](https://velog.io/@kwonhl0211/Accessing-Databases-Using-Python)
-- [Advanced SQL 2](https://velog.io/@kwonhl0211/Advanced-SQL-2)
-- [Advanced SQL 1](https://velog.io/@kwonhl0211/Advanced-SQL-1)
-- [Introduction to Databases and Basic SQL](https://velog.io/@kwonhl0211/Introduction-to-Databases-and-Basic-SQL)
-<!-- BLOG-POST-LIST:END -->  
   
 
 <br/>  
 
 ## Resume
-[Steve Kwon](https://www.notion.so/Steve-Kwon-36bce9fe1dd3464fba279395bc80f365)
+[Steve Kwon](https://stevekwon.oopy.io)
 
 <br/>  
 
@@ -118,21 +104,6 @@
   
 
 <br/>  
-
-<div align="center">
-            <a href="https://paypal.me/khi211" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/stum" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
