@@ -4,15 +4,7 @@
   
 
 ### <div align="center">I'm __Steve Kwon__, a noob entrepreneur 👨‍💻</div>  
-  
 
-- 💻 I’m currently working on __`J2KB`__ and __`Uni-Con Project`__  
-  
-
-- ❓ Ask me about anything related to __`technologies`__, __`attitude`__ to be improved, life in __`Sydney`__  
-  
-
-- ⚡ Fun fact: I am a big fan of __`Arsenal`__  
   
 
 <br/>  
@@ -21,7 +13,7 @@
 ## My Skill Set  
 <br>
 
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -57,9 +49,15 @@
 
 </td></tr></table>  
 
+<div align="center"> 
+  <a>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevekwon211&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonhl0211)](https://solved.ac/kwonhl0211)
 
+  </a>
+    </div>
+  
 <br/>  
 
 
