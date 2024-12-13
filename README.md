@@ -1,1 +1,2 @@
-https://disquiet.io/@kwondoeon
+disquiet.io/@kwondoeon
+kwondoeon.com
