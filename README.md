@@ -1,2 +1,2 @@
-disquiet.io/@kwondoeon
-kwondoeon.com
+https://disquiet.io/@kwondoeon
+https://www.kwondoeon.com
