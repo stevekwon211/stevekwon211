@@ -1,19 +1,25 @@
+Browser-native creative coding: WebGL/VFX, shaders, voxel interaction, and media art.
+
 Building [Zero](https://0.space), a voxel world builder for web, iPhone, Mac, and Windows.
 
-I work on cross-platform creative tools, realtime 3D, voxel interaction, and native UI systems.
+## Open Source
 
-## Public Work
-
-- [zero-showcase](https://github.com/stevekwon211/zero-showcase): public showcase for Zero with screenshots, preview media, and product-level technical notes.
-- [slintcn](https://github.com/stevekwon211/slintcn): copy-paste Slint components inspired by shadcn/ui for native Rust apps.
-- [splatcarve](https://github.com/stevekwon211/splatcarve): browser 3D experiment for voxel-resolution editing on Gaussian Splat scenes.
+- [splatcarve](https://github.com/stevekwon211/splatcarve): browser 3D Gaussian Splat editor with voxel-resolution carving.
+- [slintcn](https://github.com/stevekwon211/slintcn): copy-paste Slint components for native Rust apps.
+- [zero-showcase](https://github.com/stevekwon211/zero-showcase): public portfolio showcase for Zero.
 
 ## Focus
 
-- Cross-platform creative tools.
-- Realtime 3D and voxel interaction.
-- Browser-first world sharing.
-- Native UI components for desktop apps.
+- WebGL / Three.js / shaders.
+- Browser-based VFX and interactive 3D tools.
+- Voxel worlds, Gaussian splats, and spatial editing.
+- Creative tools that are easy to open, fork, and remix.
+
+## Now
+
+- Making `splatcarve` the main WebGL/VFX open-source project.
+- Keeping `zero-showcase` as the portfolio anchor for Zero.
+- Exploring small creative coding tools around shaders, webcam input, sound-reactive visuals, and browser-native media art.
 
 ## Links
 
