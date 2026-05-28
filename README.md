@@ -24,3 +24,5 @@ Building [Zero](https://0.space), a voxel world builder for web, iPhone, Mac, an
 ## Links
 
 [0.space](https://0.space) · [X](https://x.com/stevekwon211)
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/stevekwon211/svg?view=3d&tokens=full&cost=full)](https://tokscale.ai/u/stevekwon211)
