@@ -6,7 +6,6 @@ Building [Zero](https://0.space), a voxel world builder for web, iPhone, Mac, an
 
 - [splatcarve](https://github.com/stevekwon211/splatcarve): browser 3D Gaussian Splat editor with voxel-resolution carving.
 - [slintcn](https://github.com/stevekwon211/slintcn): copy-paste Slint components for native Rust apps.
-- [zero-showcase](https://github.com/stevekwon211/zero-showcase): public portfolio showcase for Zero.
 
 ## Focus
 
